@@ -1,0 +1,9 @@
+name: airbnb
+
+conda_env: environment.yml
+
+entry_points:
+  main:
+    command: "python src/main.py data/raw data/interim"
+
+  

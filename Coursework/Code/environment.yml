@@ -1,0 +1,16 @@
+name: airbnb
+dependencies:
+  - python=3.7
+  - requests
+  - click
+  - pip
+  - pandas
+  - scikit-learn
+  - jupyter
+  - black
+  - pip:
+    - -e .
+    - mlflow
+    - pysftp
+    - missingno
+    - lightgbm
