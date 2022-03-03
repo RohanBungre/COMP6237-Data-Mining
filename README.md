@@ -1,4 +1,4 @@
-# COMP6237-Data-Mining
+# COMP6237 Data Mining
 
 ## Module Description
 
