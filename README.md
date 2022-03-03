@@ -28,12 +28,6 @@ Being able to:
 
 ## Repository Content
 
-This repository contains code and reports for 2 parts of a machine learning coursework. The aim was to use spotify's music data to understand what makes a popular song and predict new hits.
+This repository contains code and a report for a piece of coursework. 
 
-The first coursework demonstrates the ability to perform data analytics to understand the raw data.
-
-The second coursework demonstrates the ability to use machine learning techniques to make accurate predictions.
-
-The coursework demonstrates being able to reproduce results from another research paper and critique its findings.
-
-It also contains the exam I undertook for the module.
+This coursework is based on trying to predict where a new Airbnb user will book their first holiday.
